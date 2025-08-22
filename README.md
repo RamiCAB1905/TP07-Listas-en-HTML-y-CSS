@@ -35,10 +35,7 @@ Elegí esta temática porque combina aprendizaje con entretenimiento. La histori
 
 ## 5.Cómo visualizar  
 
-> 💡 *Si el proyecto está publicado en GitHub Pages, el enlace iría aquí:*
 
-[🔗 Ver sitio en GitHub Pages](https://tu-usuario.github.io/museo-historias/)  
-*(Reemplazar con el enlace real si está subido)*
 
 ---
 
